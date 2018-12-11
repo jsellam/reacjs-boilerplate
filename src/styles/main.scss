@@ -1,0 +1,11 @@
+@import "./common/fonts.scss";
+@import "./common/breakpoints.scss";
+
+$red:#330000;
+
+body {
+  font-family: $font-lato-regular;
+  color:white;
+}
+
+@import "./components.scss";
